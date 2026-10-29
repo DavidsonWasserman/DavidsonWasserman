@@ -28,7 +28,6 @@
 |---|---|---|
 | [**Nooneurose**](https://github.com/nicolasduarterj/Nooneurose) | Plataforma web de roleplay com personagens, feita em equipe de 4 (Projeto de Software, UFRRJ). Atuei no front-end: login/cadastro, perfil, chats e denúncias. | Next.js · React · TypeScript · Tailwind |
 | [**Agita Rural Web**](https://github.com/DavidsonWasserman/Agita-Rural-Web) | Sistema web de gestão de projetos e ações, em equipe de 3. Fiz a área administrativa: login, criação, edição e encerramento. | Java · Servlets · JSP · DAO · Maven |
-| [**Vega Reviews**](https://github.com/DavidsonWasserman/Vega-Reviews) | Aplicação desktop para catalogar jogos e escrever reviews, com ranking e perfil de usuário. | Java · JavaFX · MySQL |
 | [**Sistema de Gerenciamento de Hotel**](https://github.com/DavidsonWasserman/APS-Prototipo-Hotel) | Engenharia de requisitos em equipe de 6 (16 casos de uso, UML e BPMN) e protótipo de reserva de quartos que construí em JavaFX. | Java · JavaFX · UML · BPMN |
 
 ### 📊 Estatísticas do GitHub
